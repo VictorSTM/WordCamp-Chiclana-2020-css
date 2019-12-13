@@ -537,7 +537,7 @@ a.wcpt-session-title:hover {
 /* AZUL CHICLANA #0071bc 
    ROJO CHICLANA #981932 */
 
-div#sidebar:after {
+#sidebar:after {
     content: "";
     width: 30px;
     height: 100vh;
