@@ -545,7 +545,7 @@ div#sidebar:after {
     right: -30px;
     top: 0;
     background-repeat: no-repeat;
-    background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiP…ODEtMTUuNS01NDBT%0D%0ALTAuNSwwLjUtMC41LDAuNXYxMDgwSDMwLjUiLz4KPC9zdmc+Cg==);
+    background-image: url("data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFk%0D%0Ab2JlIElsbHVzdHJhdG9yIDIzLjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246%0D%0AIDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkNhcGFfMSIgeG1sbnM9%0D%0AImh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5v%0D%0AcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiCgkgdmlld0JveD0iMCAwIDMwIDEwODAiIHN0%0D%0AeWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDMwIDEwODA7IiB4bWw6c3BhY2U9InByZXNl%0D%0AcnZlIj4KPHN0eWxlIHR5cGU9InRleHQvY3NzIj4KCS5zdDB7ZmlsbDojNTVDM0RDO30KPC9zdHls%0D%0AZT4KPHBhdGggY2xhc3M9InN0MCIgZD0iTTMwLjUsMTA4MC41YzAsMC0zMi0xODEtMTUuNS01NDBT%0D%0ALTAuNSwwLjUtMC41LDAuNXYxMDgwSDMwLjUiLz4KPC9zdmc+Cg==");
 }
 
 .site-footer {
