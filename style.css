@@ -538,14 +538,14 @@ a.wcpt-session-title:hover {
    ROJO CHICLANA #981932 */
 
 #sidebar:after {
-    content: "";
-    width: 30px;
-    height: 100vh;
-    position: absolute;
-    right: -30px;
-    top: 0;
-    background-repeat: no-repeat;
-    background-image: url("data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFk%0D%0Ab2JlIElsbHVzdHJhdG9yIDIzLjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246%0D%0AIDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkNhcGFfMSIgeG1sbnM9%0D%0AImh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5v%0D%0AcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiCgkgdmlld0JveD0iMCAwIDMwIDEwODAiIHN0%0D%0AeWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDMwIDEwODA7IiB4bWw6c3BhY2U9InByZXNl%0D%0AcnZlIj4KPHN0eWxlIHR5cGU9InRleHQvY3NzIj4KCS5zdDB7ZmlsbDojNTVDM0RDO30KPC9zdHls%0D%0AZT4KPHBhdGggY2xhc3M9InN0MCIgZD0iTTMwLjUsMTA4MC41YzAsMC0zMi0xODEtMTUuNS01NDBT%0D%0ALTAuNSwwLjUtMC41LDAuNXYxMDgwSDMwLjUiLz4KPC9zdmc+Cg==");
+	content: "";
+	width: 42px;
+	height: 100vh;
+	position: absolute;
+	right: -42px;
+	top: 0;
+	background-repeat: no-repeat;
+	background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPCEtLSBHZW5lcmF0b3I6IEFk%0D%0Ab2JlIElsbHVzdHJhdG9yIDIzLjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246%0D%0AIDYuMDAgQnVpbGQgMCkgIC0tPgo8c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkNhcGFfMSIgeG1sbnM9%0D%0AImh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5v%0D%0AcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiCgkgdmlld0JveD0iMCAwIDQyIDEwODAiIHN0%0D%0AeWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDQyIDEwODA7IiB4bWw6c3BhY2U9InByZXNl%0D%0AcnZlIj4KPHN0eWxlIHR5cGU9InRleHQvY3NzIj4KCS5zdDB7ZmlsbDojNTVDM0RDO3N0cm9rZToj%0D%0ARkZGRkZGO3N0cm9rZS13aWR0aDoxMTtzdHJva2UtbWl0ZXJsaW1pdDoxMDt9Cjwvc3R5bGU+Cjxw%0D%0AYXRoIGNsYXNzPSJzdDAiIGQ9Ik00NiwxMTI0YzAsMC02MS45MzUtMjA1LjMwMS0zMC02MTIuNVMt%0D%0AMTQtMTAxLTE0LTEwMXYxMjI1SDQ2Ii8+Cjwvc3ZnPgo=);
 }
 
 .site-footer {
