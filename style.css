@@ -549,7 +549,7 @@ div#sidebar:after {
 }
 
 .site-footer {
-	background: #0071bc;
+	background: red;
 }
 
 .wp-block-quote, .wp-block-quote:not(.is-large):not(.is-style-large), [class^="wp-block-"] blockquote {
