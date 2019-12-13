@@ -536,6 +536,18 @@ a.wcpt-session-title:hover {
 /* CSS PERSONALIZADO CHICLANA 2020 */
 /* AZUL CHICLANA #0071bc 
    ROJO CHICLANA #981932 */
+
+div#sidebar:after {
+    content: "";
+    width: 30px;
+    height: 100vh;
+    position: absolute;
+    right: -30px;
+    top: 0;
+    background-repeat: no-repeat;
+    background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiP…ODEtMTUuNS01NDBT%0D%0ALTAuNSwwLjUtMC41LDAuNXYxMDgwSDMwLjUiLz4KPC9zdmc+Cg==);
+}
+
 .site-footer {
 	background: #0071bc;
 }
