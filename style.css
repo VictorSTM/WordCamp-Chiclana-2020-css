@@ -550,37 +550,11 @@ a.wcpt-session-title:hover {
 		background-image: url('https://raw.githubusercontent.com/VictorSTM/WordCamp-Chiclana-2020-css/master/wave2.png');
 	}
 
-	/* div#sidebar:before {
-		content: "";
-		background: #55c3dc;
-		width: 16px;
-		border-right: 11px solid white;
-		height: 100%;
-		position: absolute;
-		right: -14px;
-		top: 0;
-		background-repeat: no-repeat;
-	} */
-
-	div#primary {
-		position: relative;
-	}
-
-	div#primary:after {
-		content: "";
-		position: absolute;
-		top: 0;
-		left: 0;
-		height: 100%;
-		width: 14px;
-		background: #55c3dc;
-		border-right: 13px solid #FFF;
-		z-index: -1;
-	}
-
 }
 
-
+body {
+	background-image: url('https://raw.githubusercontent.com/VictorSTM/WordCamp-Chiclana-2020-css/master/sand-pattern.jpg');
+}
 .site-footer {
 	background: #0071bc;
 }
