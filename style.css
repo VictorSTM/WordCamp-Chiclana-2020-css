@@ -607,7 +607,7 @@ color: rgba( 255, 255, 255, 0.7);
 
 .entry-content ol,
 .entry-content ul {
-    padding-left: 2.25rem;
+    margin-left: 1.3333em;
 }
 
 /* FOOTER */
