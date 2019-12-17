@@ -550,11 +550,11 @@ body {
 #sidebar {
 	color: #fff;
 	background: #55c3dc;
-    padding-bottom: 7rem;
 }
 
 #sidebar .secondary {
 	background: transparent;
+	margin-bottom: 7rem;
 }
 
 #sidebar .secondary a {
