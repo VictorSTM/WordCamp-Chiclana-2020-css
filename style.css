@@ -551,6 +551,7 @@ a.wcpt-session-title:hover {
 
 body {
 	background-image: url('https://raw.githubusercontent.com/VictorSTM/WordCamp-Chiclana-2020-css/master/sand-pattern2.jpg');
+	background-attachment: fixed;
 }
 
 .site-footer {
