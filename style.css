@@ -568,7 +568,7 @@ color: rgba( 255, 255, 255, 0.7);
 
 /* SIDEBAR > HIGHLIGHTED BTN */
 
-.btn-compra-entradas a {
+#sidebar .btn-compra-entradas a {
 	background: #0070bb;
 	color: #ffff;
 	font-weight: 500;
