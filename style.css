@@ -43,7 +43,7 @@ body.custom-background {
 }
 
 .site-description {
-	color: #0070bb;
+	/* color: #0070bb; */
 	font-weight: 600;
 }
 
@@ -343,6 +343,7 @@ td.wcpt-session-type-session {
 }
 
 .custom-logo {
+	filter: brightness(0) invert(1);
 	max-width: 200px;
 }
 
