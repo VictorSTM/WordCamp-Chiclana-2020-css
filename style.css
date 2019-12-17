@@ -537,15 +537,31 @@ a.wcpt-session-title:hover {
 /* AZUL CHICLANA #0071bc 
    ROJO CHICLANA #981932 */
 
-#sidebar:after {
-	content: "";
-	width: 42px;
-	height: 100vh;
-	position: absolute;
-	right: -42px;
-	top: 0;
-	background-repeat: no-repeat;
-	background-image: url('https://raw.githubusercontent.com/VictorSTM/WordCamp-Chiclana-2020-css/master/wave2.png');
+@media screen and (min-width: 955px) {
+
+	#sidebar:after {
+		content: "";
+		width: 42px;
+		height: 100vh;
+		position: absolute;
+		right: -42px;
+		top: 0;
+		background-repeat: no-repeat;
+		background-image: url('https://raw.githubusercontent.com/VictorSTM/WordCamp-Chiclana-2020-css/master/wave2.png');
+	}
+
+	div#sidebar:before {
+		content: "";
+		background: #55c3dc;
+		width: 16px;
+		border-right: 11px solid white;
+		height: 100%;
+		position: absolute;
+		right: -14px;
+		top: 0;
+		background-repeat: no-repeat;
+	}
+
 }
 
 body {
