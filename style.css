@@ -1,4 +1,3 @@
-
 /* 
 
 ESTILOS PARA WORDCAMP CHICLANA 2020
@@ -536,25 +535,23 @@ a.wcpt-session-title:hover {
 /* CSS PERSONALIZADO CHICLANA 2020 */
 /* AZUL CHICLANA #0071bc 
    ROJO CHICLANA #981932 */
-
 @media screen and (min-width: 955px) {
-
 	#sidebar:after {
 		content: "";
 		width: 42px;
-		height: 100vh;
+		height: 100%;
 		position: absolute;
 		right: -42px;
 		top: 0;
-		background-repeat: no-repeat;
-		background-image: url('https://raw.githubusercontent.com/VictorSTM/WordCamp-Chiclana-2020-css/master/wave2.png');
+		background-repeat: repeat-y;
+		background-image: url('https://raw.githubusercontent.com/VictorSTM/WordCamp-Chiclana-2020-css/master/wave3.png');
 	}
-
 }
 
 body {
 	background-image: url('https://raw.githubusercontent.com/VictorSTM/WordCamp-Chiclana-2020-css/master/sand-pattern.jpg');
 }
+
 .site-footer {
 	background: #0071bc;
 }
