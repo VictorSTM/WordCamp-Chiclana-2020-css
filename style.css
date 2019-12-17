@@ -540,6 +540,7 @@ a.wcpt-session-title:hover {
 		content: "";
 		width: 42px;
 		height: 100%;
+		min-height: 100vh;
 		position: absolute;
 		right: -42px;
 		top: 0;
@@ -549,7 +550,7 @@ a.wcpt-session-title:hover {
 }
 
 body {
-	background-image: url('https://raw.githubusercontent.com/VictorSTM/WordCamp-Chiclana-2020-css/master/sand-pattern.jpg');
+	background-image: url('https://raw.githubusercontent.com/VictorSTM/WordCamp-Chiclana-2020-css/master/sand-pattern2.jpg');
 }
 
 .site-footer {
