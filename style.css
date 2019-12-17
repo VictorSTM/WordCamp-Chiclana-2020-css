@@ -576,6 +576,11 @@ color: rgba( 255, 255, 255, 0.7);
 }
 
 @media screen and (min-width: 955px) {
+
+	#sidebar .secondary {
+		margin-bottom: 3rem;
+	}
+
 	#sidebar:after {
 		content: "";
 		width: 42px;
