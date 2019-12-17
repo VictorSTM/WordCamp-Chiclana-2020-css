@@ -536,6 +536,45 @@ a.wcpt-session-title:hover {
 /* CSS PERSONALIZADO CHICLANA 2020 */
 /* AZUL CHICLANA #0071bc 
    ROJO CHICLANA #981932 */
+
+
+/* BODY */
+
+body {
+	background-image: url('https://raw.githubusercontent.com/VictorSTM/WordCamp-Chiclana-2020-css/master/sand-pattern2.jpg');
+	background-attachment: fixed;
+}
+
+/* SIDEBAR */
+
+#sidebar {
+	color: #fff;
+	background: #55c3dc;
+    padding-bottom: 7rem;
+}
+
+#sidebar .secondary {
+	background: transparent;
+}
+
+#sidebar .secondary a {
+	color: #fff;
+}
+
+#sidebar .secondary a:hover,
+#sidebar .secondary a:focus {
+color: rgba( 255, 255, 255, 0.7);
+}
+
+/* SIDEBAR > HIGHLIGHTED BTN */
+
+.btn-compra-entradas a {
+	background: #0070bb;
+	color: #ffff;
+	font-weight: 500;
+	text-align: center;
+}
+
 @media screen and (min-width: 955px) {
 	#sidebar:after {
 		content: "";
@@ -550,26 +589,14 @@ a.wcpt-session-title:hover {
 	}
 }
 
-body {
-	background-image: url('https://raw.githubusercontent.com/VictorSTM/WordCamp-Chiclana-2020-css/master/sand-pattern2.jpg');
-	background-attachment: fixed;
-}
-
-.site-footer {
-	background: #0071bc;
-}
+/* PAGE */
 
 .wp-block-quote, .wp-block-quote:not(.is-large):not(.is-style-large), [class^="wp-block-"] blockquote {
 	border-color: #0070bb;
 }
 
-.btn-compra-entradas a {
-	background: #0070bb;
-	color: #ffff;
-	font-weight: 500;
-	text-align: center;
-}
+/* FOOTER */
 
-.sidebar {
-	color: #fff;
+.site-footer {
+	background: #0071bc;
 }
