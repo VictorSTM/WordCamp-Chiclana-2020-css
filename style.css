@@ -594,10 +594,20 @@ color: rgba( 255, 255, 255, 0.7);
 	}
 }
 
-/* PAGE */
+/* CONTENT ELEMENTS */
 
-.wp-block-quote, .wp-block-quote:not(.is-large):not(.is-style-large), [class^="wp-block-"] blockquote {
+
+/* CONTENT ELEMENTS > BLOCKQUOTE */
+.wp-block-quote,
+.wp-block-quote:not(.is-large):not(.is-style-large), [class^="wp-block-"] blockquote {
 	border-color: #0070bb;
+}
+
+/* CONTENT ELEMENTS > LISTS */
+
+.entry-content ol,
+.entry-content ul {
+    padding-left: 2.25rem;
 }
 
 /* FOOTER */
