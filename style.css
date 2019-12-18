@@ -164,94 +164,6 @@ a:focus {
 	margin-bottom: 50px;
 }
 
-/* Ajout du Français dans l'achat de billets */
-.tix-row-coupon a::after {
-	content: " / Cliquez ici pour appliquer un code rabais";
-}
-
-.tix-row-first-name .tix-left::after {
-	content: "/ Prénom";
-}
-
-.tix-row-last-name .tix-left::after {
-	content: "/ Nom";
-}
-
-.tix-row-email .tix-left::after {
-	content: "/ Adresse courriel";
-}
-
-.tix-row-allergy .tix-left::after {
-	content: "/ Avez-vous des allergies mortelles qui affecteraient votre expérience à WordCamp?";
-}
-
-.tix-row-accommodations .tix-left::after {
-	content: "/ Avez-vous des besoins d’accessibilité tels que l’interpretation en langage des signes ou  l’accès en fauteuil roulant afin de participer à WordCamp?";
-}
-
-.tix-row-coc .tix-left::after {
-	content: "Acceptez-vous de respecter le code de conduite de l’événement?";
-}
-
-.tix-row-allergy .tix-right label:first-child::after,
-.tix-row-accommodations .tix-right label:first-child::after {
-	content: " / Oui (nous vous contacterons)";
-}
-
-.tix-row-allergy .tix-right label:last-child::after,
-.tix-row-accommodations .tix-right label:last-child::after {
-	content: " / Non";
-}
-
-.tix-row-coc .tix-right label::after {
-	content: " / Oui";
-}
-
-.tix-row-privacy .tix-left::after {
-	content: " / Souhaitez-vous être affiché dans la liste des gens présents?";
-}
-
-/* Track titles */
-.entry-content .wcb-track-developpement::before, .entry-content .wcb-track-development::before {
-	content: "Dev";
-	background-color: #C6C007;
-}
-
-.entry-content .wcb-track-code::before {
-	content: "Code";
-	background-color: #008CAE;
-}
-
-.entry-content .wcb-track-general::before {
-	content: "General";
-	background-color: #0B0B61;
-}
-
-.entry-content .wcb-track-business::before {
-	content: "Business";
-	background-color: #3c3c3c;
-}
-
-.entry-content .wcb-track-content::before {
-	content: "Content";
-	background-color: #24905f;
-}
-
-.entry-content .wcb-track-woocommerce::before {
-	content: "Woocommerce";
-	background-color: #96588a;
-}
-
-.entry-content .wcb-track-lunchtime::before {
-	content: "Lunchtime";
-	background-color: #e9432e;
-}
-
-.entry-content .wcb-track-lightning::before {
-	content: "3 x 15min Lightning Talks";
-	background-color: #4c459c;
-}
-
 /* Show and colour code session tracks */
 .entry-content .wcpt-session-type-session::before {
 	color: #fff;
@@ -281,32 +193,6 @@ td.wcpt-time {
 
 td.wcpt-session-type-session {
 	vertical-align: top;
-}
-
-/* Track titles */
-.entry-content .wcb-track-design::before {
-	content: "Design";
-	background-color: #C6C007;
-}
-
-.entry-content .wcb-track-code::before {
-	content: "Code";
-	background-color: #008CAE;
-}
-
-.entry-content .wcb-track-generale::before {
-	content: "Générale";
-	background-color: #204B98;
-}
-
-.entry-content .wcb-track-marketing::before {
-	content: "Marketing";
-	background-color: #767676;
-}
-
-.entry-content .wcb-track-entreprise::before {
-	content: "Entreprise";
-	background-color: #ce462e;
 }
 
 /* Style session speaker in schedule */
