@@ -463,6 +463,34 @@ body {
 	opacity: .7;
 }
 
+/* SIDEBAR > SPONSORS */
+
+.wcb_widget_sponsors {
+    display: flex;
+    flex-direction: column;
+}
+
+.wcb_widget_sponsors >* {
+    width: 100%;
+}
+
+.wcb_widget_sponsors .super-administrador {
+    order: 1;
+}
+
+.wcb_widget_sponsors .administrador {
+    order: 2;
+}
+
+.wcb_widget_sponsors .editor {
+    order: 3;
+}
+
+.wcb_widget_sponsors .autor {
+    order: 4;
+}
+
+
 /* SIDEBAR > HIGHLIGHTED BTN */
 
 #sidebar .btn-compra-entradas a {
