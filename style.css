@@ -634,6 +634,20 @@ body {
     margin-left: 1.3333em;
 }
 
+/* CONTENT ELEMENTS > TABLA COMPRA ENTRADAS */
+
+#tix {
+    overflow-x: auto;
+}
+
+#tix form {
+    width: 660px;
+}
+
+#tix th.tix-column-description {
+    width: 250px;
+}
+
 /* FOOTER */
 
 .site-footer {
