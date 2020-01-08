@@ -441,12 +441,7 @@ body {
 }
 
 .wcpt-schedule tr a {
-	text-decoration: none !important;
-	border: none !important;
-	box-shadow: none !important;
-}
-
-.wcpt-session-speakers a {
+	border-color: inherit;
 }
 
 .wcpt-schedule tr:nth-child(n+1) {
