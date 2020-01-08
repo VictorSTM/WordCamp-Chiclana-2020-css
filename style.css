@@ -446,6 +446,7 @@ body {
 }
 
 .wcpt-schedule tr a {
+	color: inherit !important;
 	border-color: inherit;
 }
 
