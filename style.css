@@ -409,6 +409,9 @@ body {
 @media screen and (max-width: 700px) {
 	.wcpt-schedule {
 		background: #0070bb;
+	}
+
+	.wcpt-schedule td {
 		text-align: center !important;
 	}
 }
