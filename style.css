@@ -402,8 +402,13 @@ body {
 /* CONTENT ELEMENTS > SCHEDULE */
 
 .wcpt-schedule {
-	background: #0070bb;
 	text-align: center;
+}
+
+@media screen and (max-width: 700px) {
+	.wcpt-schedule {
+		background: #0070bb;
+	}
 }
 
 .wcpt-schedule .container {
