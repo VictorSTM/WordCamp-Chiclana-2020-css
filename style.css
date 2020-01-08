@@ -402,8 +402,7 @@ body {
 /* CONTENT ELEMENTS > SCHEDULE */
 
 .wcpt-schedule {
-	padding: 120px 30px;
-	background: #234879;
+	background: #0070bb;
 	text-align: center;
 }
 
@@ -412,20 +411,19 @@ body {
 }
 
 .wcpt-schedule h2 {
-	font-family: "Ubuntu", sans-serif;
 	font-size: 24px;
 	padding-top: 10px;
 	color: #e05c28;
 }
 
 .wcpt-schedule h3 {
-	font-family: "Ubuntu", sans-serif;
 	font-size: 20px;
 	padding-top: 10px;
 	font-weight: 700;
 }
 
-.wcpt-schedule p,.wcpt-schedule li ul li {
+.wcpt-schedule p,
+.wcpt-schedule li ul li {
 	font-size: 16px;
 }
 
@@ -456,16 +454,12 @@ body {
 }
 
 .wcpt-schedule tr:nth-child(2n) {
-	background-color: #8ac4d0;
+	background-color: #55c3dc;
 	color: #fff;
 }
 
 .wcpt-schedule tr:nth-child(2n) a {
 	color: #fff;
-}
-
-.wcpt-schedule p strong {
-	font-family: "Ubuntu", sans-serif;
 }
 
 .wcpt-schedule .wcpt-col-track {
