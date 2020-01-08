@@ -406,16 +406,6 @@ body {
 	margin-bottom: 50px;
 }
 
-@media screen and (max-width: 700px) {
-	.wcpt-schedule {
-		background: #0070bb;
-	}
-
-	.wcpt-schedule td {
-		text-align: center !important;
-	}
-}
-
 .wcpt-schedule .container {
 	max-width: 900px;
 }
@@ -450,14 +440,6 @@ body {
 	color: inherit !important;
 	border-color: inherit;
 }
-
-@media screen and (max-width: 700px) {
-	.wcpt-schedule tr a {
-		border: none;
-		text-decoration: underline;
-	}
-}
-
 
 .wcpt-schedule tr:nth-child(n+1) {
 	background-color: #f5f5f5;
@@ -568,6 +550,26 @@ body {
 
 .wcpt-schedule .wcpt-time-530pm .wcpt-session-empty {
 	background: #f5f5f5;
+}
+
+@media screen and (max-width: 700px) {
+
+	.wcpt-schedule {
+		background: #0070bb;
+	}
+
+	.wcpt-schedule td {
+		text-align: center !important;
+	}
+
+	.wcpt-schedule tr {
+		margin-bottom: 3px;
+	}
+
+	.wcpt-schedule tr a {
+		border: none;
+		text-decoration: underline;
+	}
 }
 
 /* FOOTER */
