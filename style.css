@@ -625,15 +625,14 @@ body {
 }
 
 /* CONTENT ELEMENTS > ATTENDEES */
-/* 
+
 #tix-attendees .tix-field {
-	margin-left: 20px;
-	overflow: hidden;
+	margin-left: 0;
 }
 
-#tix-attendees a.tix-field {
+#tix-attendees .tix-field.tix-attendee-twitter {
 	display: inline;
-} */
+}
 
 /* FOOTER */
 
