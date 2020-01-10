@@ -419,6 +419,10 @@ body {
 	display: none;
 }
 
+.tix_tickets_table td, .tix_tickets_table td select {
+	font-size: 12px;
+}
+
 /* CONTENT ELEMENTS > SCHEDULE */
 
 .wcpt-schedule {
