@@ -389,8 +389,8 @@ body {
 
 .tix_tickets_table th {
 	font-size: 11px;
-	padding-left: 0;
-	padding-right: 0;
+	padding-left: .25rem;
+	padding-right: 0.25rem;
 }
 
 .tix-ticket-title,
