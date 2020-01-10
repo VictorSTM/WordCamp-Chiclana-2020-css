@@ -430,17 +430,17 @@ body {
 @media screen and (min-width: 768px) and (max-width: 1299px) {
 	
 	.tix-column-price {
-		width: 86px;
+		width: 88px;
 	}
 	
 	.tix-column-quantity {
-		width: 86px;
+		width: 88px;
 	}
 
 }
 
 @media screen and (min-width: 1300px) {
-	
+
 	.tix-column-price {
 		width: 110px;
 	}
