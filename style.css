@@ -387,17 +387,28 @@ body {
 
 /* CONTENT ELEMENTS > TABLA COMPRA ENTRADAS */
 
+.tix_tickets_table th {
+    font-size: 12px;
+}
 
-#tix th.tix-column-description {
-    width: 50%;
+.tix-ticket-title {
+    font-size: 13px;
+}
+
+.tix-ticket-excerpt {
+    font-size: 12px;
+}
+
+#tix .tix-column-description {
+    width: 100%;
 }
 
 .tix-column-price {
-	width: 25%;
+	width: 76px;
 }
 
 .tix-column-quantity {
-	width: 25%;
+	width: 66px;
 }
 
 .tix-column-remaining {
