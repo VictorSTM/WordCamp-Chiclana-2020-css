@@ -49,7 +49,7 @@ body.custom-background {
 }
 
 .site-description {
-	/* color: #0070bb; */
+	/* color: #0071bc; */
 	font-weight: 600;
 }
 
@@ -327,7 +327,7 @@ body {
 
 #sidebar .btn-compra-entradas a {
 	text-transform: uppercase;
-	background: #0070bb;
+	background: #0071bc;
 	color: #ffff;
 	font-weight: 500;
 	text-align: center;
@@ -375,7 +375,7 @@ body {
 /* CONTENT ELEMENTS > BLOCKQUOTE */
 .wp-block-quote,
 .wp-block-quote:not(.is-large):not(.is-style-large), [class^="wp-block-"] blockquote {
-	border-color: #0070bb;
+	border-color: #0071bc;
 }
 
 /* CONTENT ELEMENTS > LISTS */
@@ -555,7 +555,7 @@ body {
 @media screen and (max-width: 700px) {
 
 	.wcpt-schedule {
-		background: #0070bb;
+		background: #0071bc;
 	}
 
 	.wcpt-schedule td {
