@@ -645,7 +645,7 @@ body {
 @media screen and (min-width: 768px) {
 
 	#tix-attendees .tix-columns-2 li {
-		width: 100%;
+		width: 50%;
 	}
 }
 
