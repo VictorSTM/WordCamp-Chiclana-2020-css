@@ -626,6 +626,10 @@ body {
 
 /* CONTENT ELEMENTS > ATTENDEES */
 
+#tix-attendees .avatar {
+	margin-left: 20px;
+}
+
 #tix-attendees .tix-field {
 	margin-left: 0;
 }
