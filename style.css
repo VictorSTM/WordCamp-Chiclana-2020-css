@@ -387,6 +387,10 @@ body {
 
 /* CONTENT ELEMENTS > TABLA COMPRA ENTRADAS */
 
+.tix-column-description {
+	width: 100%;
+}
+
 @media screen and (max-width: 767px) {
 
 	.tix_tickets_table th {
@@ -402,10 +406,6 @@ body {
 
 	.tix-ticket-excerpt {
 		font-size: 12px;
-	}
-
-	.tix-column-description {
-		width: 100%;
 	}
 
 	.tix-column-price,
