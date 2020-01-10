@@ -624,6 +624,17 @@ body {
 	}
 }
 
+/* CONTENT ELEMENTS > ATTENDEES */
+
+#tix-attendees .tix-field {
+	margin-left: 20px;
+	overflow: hidden;
+}
+
+#tix-attendees a.tix-field {
+	display: inline;
+}
+
 /* FOOTER */
 
 .site-footer {
