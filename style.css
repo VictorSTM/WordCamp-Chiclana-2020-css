@@ -387,16 +387,21 @@ body {
 
 /* CONTENT ELEMENTS > TABLA COMPRA ENTRADAS */
 
-#tix {
-    overflow-x: auto;
-}
-
-#tix form {
-    width: 660px;
-}
 
 #tix th.tix-column-description {
-    width: 250px;
+    width: 50%;
+}
+
+.tix-column-price {
+	width: 25%;
+}
+
+.tix-column-quantity {
+	width: 25%;
+}
+
+.tix-column-remaining {
+	display: none;
 }
 
 /* CONTENT ELEMENTS > SCHEDULE */
