@@ -387,40 +387,44 @@ body {
 
 /* CONTENT ELEMENTS > TABLA COMPRA ENTRADAS */
 
-.tix_tickets_table th {
-	font-size: 11px;
-	padding-left: .25rem;
-	padding-right: 0.25rem;
-}
+@media screen and (max-width: 767px) {
 
-.tix-ticket-title,
-.tix-order-summary .tix-column-description {
-    font-size: 13px;
-}
+	.tix_tickets_table th {
+		font-size: 11px;
+		padding-left: .25rem;
+		padding-right: 0.25rem;
+	}
 
-.tix-ticket-excerpt {
-    font-size: 12px;
-}
+	.tix-ticket-title,
+	.tix-order-summary .tix-column-description {
+		font-size: 13px;
+	}
 
-.tix-column-description {
-    width: 100%;
-}
+	.tix-ticket-excerpt {
+		font-size: 12px;
+	}
 
-.tix-column-price,
-.tix-column-per-ticket {
-	width: 54px;
-}
+	.tix-column-description {
+		width: 100%;
+	}
 
-.tix-column-quantity {
-	width: 58px;
-}
+	.tix-column-price,
+	.tix-column-per-ticket {
+		width: 54px;
+	}
 
-.tix-column-remaining {
-	display: none;
-}
+	.tix-column-quantity {
+		width: 58px;
+	}
 
-.tix_tickets_table td, .tix_tickets_table td select {
-	font-size: 12px;
+	.tix-column-remaining {
+		display: none;
+	}
+
+	.tix_tickets_table td, .tix_tickets_table td select {
+		font-size: 12px;
+	}
+
 }
 
 /* CONTENT ELEMENTS > SCHEDULE */
