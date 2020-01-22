@@ -453,7 +453,21 @@ body {
 
 /* CONTENT ELEMENTS > SCHEDULE */
 
+@media screen and (min-width: 701px) {
+	.wcpt-col-time,
+	.wcpt-schedule tr td:first-child {
+	    width: 70px;
+	    text-align: center;
+	}
+}
 
+/*@media screen and (min-width: 880px) {
+	.wcpt-col-time,
+	.wcpt-schedule tr td:first-child {
+	    width: 70px;
+	}
+}
+*/
 
 
 /* CONTENT ELEMENTS > ATTENDEES */
