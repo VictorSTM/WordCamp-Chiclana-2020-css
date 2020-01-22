@@ -493,7 +493,7 @@ body {
 	border-color: inherit;
 }
 
-.wcpt-schedule tr:nth-child(n+1) {
+/*.wcpt-schedule tr:nth-child(n+1) {
 	background-color: #f5f5f5;
 }
 
@@ -505,7 +505,7 @@ body {
 .wcpt-schedule tr:nth-child(2n) a {
 	color: #fff;
 }
-
+*/
 .wcpt-schedule .wcpt-col-track {
 	text-align: center;
 	font-weight: 900;
