@@ -457,10 +457,18 @@ body {
 	background: #f9f9f9;
 }*/
 
+table.wcpt-schedule ~ table.wcpt-schedule {
+    margin: 0;
+}
+
 @media screen and (min-width: 701px) {
 
 	thead {
 		background: #ecfcff;
+	}
+
+	.wcpt-schedule--talleres thead {
+		background: #ffe1e1;
 	}
 
 	.wcpt-col-time,
