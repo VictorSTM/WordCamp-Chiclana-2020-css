@@ -477,9 +477,23 @@ body {
 	    background: #fff;
 	}
 
-	.wcpt-session-title {
+	.wcpt-schedule a.wcpt-session-title {
 		display: block;
 		border: 0;
+		text-decoration: none;
+	}
+
+	.wcpt-schedule a.wcpt-session-title:hover {
+		text-decoration: underline;
+	}
+
+	.wcpt-session-speakers a {
+		border: none;
+		color: inherit;
+		text-decoration: none;
+	}
+
+	.wcpt-session-speakers a:hover {
 		text-decoration: underline;
 	}
 
