@@ -453,16 +453,27 @@ body {
 
 /* CONTENT ELEMENTS > SCHEDULE */
 
-.wcpt-schedule {
+/*.wcpt-schedule {
 	background: #f9f9f9;
-}
+}*/
 
 @media screen and (min-width: 701px) {
+
+	thead {
+		background: #ecfcff;
+	}
+
 	.wcpt-col-time,
 	.wcpt-schedule tr td:first-child {
-	    width: 70px;
+		background: #eee;
+	    width: 65px;
 	    text-align: center;
 	}
+
+	.wcpt-session-type-custom {
+	    background: #fff;
+	}
+
 }
 
 /*@media screen and (min-width: 880px) {
