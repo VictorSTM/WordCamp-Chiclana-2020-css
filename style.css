@@ -465,11 +465,14 @@ body {
 
 	.wcpt-col-time,
 	.wcpt-schedule tr td:first-child {
-		background: #eee;
 	    width: 65px;
 	    text-align: center;
 	}
 
+	.wcpt-time {
+		background: #eee;
+	}
+	
 	.wcpt-session-type-custom {
 	    background: #fff;
 	}
