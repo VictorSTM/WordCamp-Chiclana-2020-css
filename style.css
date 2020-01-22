@@ -477,6 +477,12 @@ body {
 	    background: #fff;
 	}
 
+	.wcpt-session-title {
+		display: block;
+		border: 0;
+		text-decoration: underline;
+	}
+
 }
 
 /*@media screen and (min-width: 880px) {
