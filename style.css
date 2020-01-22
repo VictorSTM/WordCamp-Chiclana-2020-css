@@ -471,6 +471,11 @@ table.wcpt-schedule ~ table.wcpt-schedule {
 		background: #ffe1e1;
 	}
 
+	.wcpt-schedule--talleres .wcpt-col-time {
+	    background: #ffe1e1;
+	    color: #ffe1e1;
+	}
+
 	.wcpt-col-time,
 	.wcpt-schedule tr td:first-child {
 	    width: 70px;
